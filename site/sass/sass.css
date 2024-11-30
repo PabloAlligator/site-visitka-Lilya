@@ -128,6 +128,7 @@
   margin-top: 104px;
   transition: all 0.3s ease;
   border: 0px;
+  cursor: pointer;
 }
 .section__one-wrapper-btn button .p-btn {
   font-family: AnonymousProBold;
